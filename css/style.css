@@ -114,7 +114,7 @@
 }
 /*css for reviews*/
 
-.head1 #strong{
+.head1 .strong{
     font-family: poppins;
     display: flex;
     flex-flow: row;
@@ -126,6 +126,7 @@
     border: 1px solid #f4a688;
     font-size: larger;
     text-align: center;
+    
     
 }
 .box4{
